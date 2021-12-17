@@ -1,0 +1,6 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false
+}

@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "0a21047f10624a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cfac5686204c257",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbb27622a488d209",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e2c8edb8098d896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ee1ff2f4e849b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8702d454eaeaf4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8089d123770723e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "432cf338bef008b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7339e03bfc225380",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ccf92a2f195cf9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8cfac5686204c257",
+  "lastOpenFiles": [
+    "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
+    "AllFiles/资源/obsidian/obsidian.md",
+    "🚧项目MOC.md",
+    "🌏资源MOC.md",
+    "🕹️资源操作.md",
+    "🕹️项目操作.md",
+    "AllFiles/templates/资源-模板.md",
+    "AllFiles/templates/选中文档相关资源项目-模板.md",
+    "AllFiles/templates/项目-模板.md",
+    "AllFiles/templates/未引用文档-模板.md"
+  ]
+}
