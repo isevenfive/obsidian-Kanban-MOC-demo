@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8cfac5686204c257",
+        "id": "365dd6d7b3b4b228",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8cfac5686204c257",
+  "active": "365dd6d7b3b4b228",
   "lastOpenFiles": [
-    "README.md",
-    "attachments/image-20211218020011563.png",
-    "attachments/image-20211218015329845.png",
-    "attachments/image-20211218013344807.png",
     "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
     "AllFiles/资源/obsidian/obsidian.md",
+    "AllFiles/资源/obsidian/Dataview.md",
     "🌏资源MOC.md",
-    "🚧项目MOC.md",
+    "AllFiles/资源/obsidian/Buttons.md",
     "🕹️项目操作.md",
-    "AllFiles/资源/obsidian/Dataview.md"
+    "🕹️资源操作.md",
+    "AllFiles/资源/测试2/测试2.md",
+    "🚧项目MOC.md",
+    "README.md"
   ]
 }

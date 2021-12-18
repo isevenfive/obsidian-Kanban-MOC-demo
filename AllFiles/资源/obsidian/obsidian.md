@@ -13,8 +13,8 @@ kanban-plugin: basic
 ## 插件
 
 - [ ] [[Dataview]]
+- [ ] [[Buttons]]
 - [ ] Kanban
-- [ ] Buttons
 
 
 
