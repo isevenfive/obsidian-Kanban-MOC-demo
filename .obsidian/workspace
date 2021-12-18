@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md"
+            "file": "🌏资源MOC.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
+                "file": "🌏资源MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "365dd6d7b3b4b228",
   "lastOpenFiles": [
-    "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
-    "AllFiles/资源/obsidian/obsidian.md",
-    "AllFiles/资源/obsidian/Dataview.md",
     "🌏资源MOC.md",
+    "🚧项目MOC.md",
+    "AllFiles/资源/obsidian/obsidian.md",
+    "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
+    "AllFiles/资源/obsidian/Dataview.md",
     "AllFiles/资源/obsidian/Buttons.md",
     "🕹️项目操作.md",
     "🕹️资源操作.md",
     "AllFiles/资源/测试2/测试2.md",
-    "🚧项目MOC.md",
     "README.md"
   ]
 }
