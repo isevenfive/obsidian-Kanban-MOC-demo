@@ -4,5 +4,7 @@
   "buttons",
   "custom-Kanban-MOC",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "hot-reload",
+  "simple-plugin-demo"
 ]
