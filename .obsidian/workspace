@@ -7,9 +7,10 @@
         "id": "8cfac5686204c257",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,12 +96,12 @@
   },
   "active": "8cfac5686204c257",
   "lastOpenFiles": [
+    "README.md",
     "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
     "AllFiles/资源/obsidian/obsidian.md",
     "🌏资源MOC.md",
     "🚧项目MOC.md",
     "🕹️项目操作.md",
-    "README.md",
     "AllFiles/资源/obsidian/Dataview.md",
     "🕹️资源操作.md",
     "AllFiles/资源/obsidian/attachments/Pasted image 20211218005238.png",
