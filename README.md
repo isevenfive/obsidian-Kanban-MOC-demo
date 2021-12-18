@@ -2,13 +2,16 @@
 
 [TOC]
 
-# obsidian-Kanban-MOC-demo（编辑中）
+# obsidian-Kanban-MOC-demo
 
-看板MOC插件的演示库。
+这是一个看板MOC插件的演示库。
 
-直接下载解压使用 obsidian 打开。
+使用方法：直接下载解压使用 obsidian 打开。
 
-插件：[obsidian-Kanban-MOC](https://github.com/1657744680/obsidian-Kanban-MOC)
+相关链接：
+
+- 看板MOC插件：[1657744680/obsidian-Kanban-MOC: 自用插件 (github.com)](https://github.com/1657744680/obsidian-Kanban-MOC-demo)
+- 带注释的官方插件示例：[obsidian-plugin-sample-notes (github.com)](https://github.com/1657744680/obsidian-Kanban-MOC)
 
 # 前言
 
@@ -52,7 +55,7 @@
 
 重中之重肯定就是 main.ts 文件了，接下来开始看 ts 文件
 
-## 3、用 vscode 打开插件示例
+## 3、用 vscode 打开插件示例（带注释的官方插件示例）
 
 我在main.ts中写了点儿注释（我也不知道对不对），已经上传到GitHub了，有兴趣的可以瞅瞅：[obsidian-plugin-sample-notes (github.com)](https://github.com/1657744680/obsidian-plugin-sample-notes)。下载后解压同样放在obsidian的插件文件夹下，然后 `npm run dev`。
 
@@ -348,3 +351,9 @@ Ctrl+P 打开命令，输入“看板MOC”，可以看到一共有 7 条命令�
 # 参考链接
 
 [（转载）Obsidian 开发相关（简单引导） - 开发讨论 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/148)
+
+看板MOC插件：[1657744680/obsidian-Kanban-MOC: 自用插件 (github.com)](https://github.com/1657744680/obsidian-Kanban-MOC)
+
+看板MOC插件展示库：[1657744680/obsidian-Kanban-MOC-demo: 看板MOC插件的演示库 (github.com)](https://github.com/1657744680/obsidian-Kanban-MOC-demo)
+
+带注释的官方插件示例：[obsidian-plugin-sample-notes (github.com)](https://github.com/1657744680/obsidian-plugin-sample-notes)
