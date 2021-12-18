@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "365dd6d7b3b4b228",
+        "id": "1b5e4af7eaad718d",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "🌏资源MOC.md"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌏资源MOC.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,16 +86,27 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "627c8daf1e426172",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "365dd6d7b3b4b228",
+  "active": "1b5e4af7eaad718d",
   "lastOpenFiles": [
+    "README.md",
     "🌏资源MOC.md",
     "🚧项目MOC.md",
     "AllFiles/资源/obsidian/obsidian.md",
@@ -103,7 +115,6 @@
     "AllFiles/资源/obsidian/Buttons.md",
     "🕹️项目操作.md",
     "🕹️资源操作.md",
-    "AllFiles/资源/测试2/测试2.md",
-    "README.md"
+    "AllFiles/资源/测试2/测试2.md"
   ]
 }
