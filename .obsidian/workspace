@@ -55,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,13 +97,13 @@
   "lastOpenFiles": [
     "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
     "AllFiles/资源/obsidian/obsidian.md",
-    "🚧项目MOC.md",
     "🌏资源MOC.md",
-    "🕹️资源操作.md",
+    "🚧项目MOC.md",
     "🕹️项目操作.md",
-    "AllFiles/templates/资源-模板.md",
-    "AllFiles/templates/选中文档相关资源项目-模板.md",
-    "AllFiles/templates/项目-模板.md",
-    "AllFiles/templates/未引用文档-模板.md"
+    "README.md",
+    "AllFiles/资源/obsidian/Dataview.md",
+    "🕹️资源操作.md",
+    "AllFiles/资源/obsidian/attachments/Pasted image 20211218005238.png",
+    "AllFiles/templates/资源-模板.md"
   ]
 }
