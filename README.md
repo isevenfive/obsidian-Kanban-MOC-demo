@@ -9,7 +9,7 @@
 
 相关链接：
 
-- 看板MOC插件：[1657744680/obsidian-Kanban-MOC: 自用插件 (github.com)](https://github.com/1657744680/obsidian-Kanban-MOC-demo)
+- 看板MOC插件：[1657744680/obsidian-Kanban-MOC: 自用插件 (github.com)](https://github.com/1657744680/obsidian-Kanban-MOC)
 - 带注释的官方插件示例：[obsidian-plugin-sample-notes (github.com)](https://github.com/1657744680/obsidian-Kanban-MOC)
 
 # 前言
