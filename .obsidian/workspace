@@ -102,19 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 448
   },
   "active": "1b5e4af7eaad718d",
   "lastOpenFiles": [
     "README.md",
     "🌏资源MOC.md",
-    "🚧项目MOC.md",
-    "AllFiles/资源/obsidian/obsidian.md",
     "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
+    "AllFiles/资源/obsidian/obsidian.md",
+    "🕹️资源操作.md",
+    "🕹️项目操作.md",
+    "🚧项目MOC.md",
     "AllFiles/资源/obsidian/Dataview.md",
     "AllFiles/资源/obsidian/Buttons.md",
-    "🕹️项目操作.md",
-    "🕹️资源操作.md",
     "AllFiles/资源/测试2/测试2.md"
   ]
 }

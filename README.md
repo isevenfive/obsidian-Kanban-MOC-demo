@@ -125,9 +125,10 @@ obsidian 会识别这个文件作为插件信息（很简单就不多说了）
 
 ## 3、⚠️重点：编辑 main.ts 文件
 
-使用 vscode 打开 main.ts 文件。
+**一个重要的调试方法**：使用 `console.log()`输出变量信息到控制台
+obsidian**打开控制台**的方法：`Ctrl+Shift+i`
 
-前面提到了 main.ts 的大致结构：
+接下来使用 vscode 打开 main.ts 文件，前面提到了 main.ts 的大致结构：
 ![image-20211218015329845](attachments/image-20211218015329845.png)
 
 ### 设置变量 MyPluginSettings
@@ -142,14 +143,14 @@ obsidian 会识别这个文件作为插件信息（很简单就不多说了）
 ![image-20211218111511560](attachments/image-20211218111511560.png)
 
 ❓那么这个变量怎么被调用加载呢？
-详见：[加载设置 loadSettings](#加载设置-loadsettings)
+详见：[[#加载设置 loadSettings]]
 
 ❓又是怎样修改个变量的值呢？
-详见：[保存设置 saveSettings](#保存设置-savesettings)
+详见：[[#保存设置 saveSettings]]
 
 ### 编写插件设置面板 PluginSettingTab
 
-注意：这里只是编写插件设置面板，除此之外还需要在 [插件启用 onload](#插件启用-onload) 中把该面板添加到设置里去
+注意：这里只是编写插件设置面板，除此之外还需要在 [[#插件启用 onload]] 中把该面板添加到设置里去
 
 先看下原来的设置页面：
 可以看到这个设置页面的内容有一个h2标题、一个设置项。
