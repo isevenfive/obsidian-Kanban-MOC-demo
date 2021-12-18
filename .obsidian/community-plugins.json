@@ -2,9 +2,10 @@
   "obsidian-kanban",
   "dataview",
   "buttons",
-  "custom-Kanban-MOC",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "hot-reload",
-  "simple-plugin-demo"
+  "simple-plugin-demo",
+  "obsidan-Kanban-MOC",
+  "obsidian-dev-tools",
+  "obsidian-excalidraw-plugin"
 ]

@@ -17,6 +17,7 @@ kanban-plugin: basic
 ## ⭕待做
 
 - [ ] bug：手机端更新索引失效！<br>估计是文件写入write失效
+- [ ] `button-test`
 
 
 ## 🟢进行中
@@ -26,6 +27,8 @@ kanban-plugin: basic
 ## ✔️已完成
 
 **完成**
+- [x] 功能修改：将修改、删除资源或项目文件功能移动到鼠标右键菜单。<br>- 参考 Excalidraw 插件添加右键菜单<br>- 参照 Buttons 获取 [[obsidian icon id]]
+- [x] 添加功能：删除资源、项目时自动删除资源项目卡片或替换
 - [x] 添加功能：输入显示候选框
 - [x] 开发完成后只需要保留以下 3 个文件：<br>- `main.js` 文件：主程序文件<br>- `manifest.json` 文件：插件信息<br>- `styles.css` 文件
 - [x] 看板MOC插件开发……

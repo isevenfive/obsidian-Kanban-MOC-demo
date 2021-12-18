@@ -8,7 +8,31 @@
 ```
 
 以下两个文档里就是资源、项目的操作指令按键：
-[[🕹️资源操作]]
-[[🕹️项目操作]]
 
-但是不知道为什么这个按钮在 Kanban 里无法渲染……
+这个插件只有 inline button 可以在 Kanban 里渲染，但是点击没用……
+
+# 带id button，勿删！！
+> 用于 inline button
+
+```button
+name 新建资源
+type command
+action 看板MOC: 创建新资源
+color blue
+```
+^button-newRes
+
+```button
+name 新建项目
+type command
+action 看板MOC: 创建新项目
+color blue
+```
+^button-newPrj
+
+```button  
+name 更新索引
+type command  
+action 看板MOC: 更新索引
+```
+^button-updateMOC
