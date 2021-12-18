@@ -11,7 +11,7 @@
 
 这个插件只有 inline button 可以在 Kanban 里渲染，但是点击没用……
 
-# 带id button，勿删！！
+# 带id button，下列内容勿删！！
 > 用于 inline button
 
 ```button
