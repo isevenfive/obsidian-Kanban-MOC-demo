@@ -16,12 +16,11 @@ kanban-plugin: basic
 
 ## ⭕待做
 
-- [ ] bug：手机端更新索引失效！<br>估计是文件写入write失效
-- [ ] `button-test`
 
 
 ## 🟢进行中
 
+- [ ] bug：手机端更新索引失效！<br>估计是文件写入write失效<br><br>新建、删除会受到影响<br>修改不受影响<br><br>希望大佬可以帮忙答疑解惑，在[Github](https://github.com/1657744680/obsidian-Kanban-MOC)上留下话题
 
 
 ## ✔️已完成
@@ -29,7 +28,6 @@ kanban-plugin: basic
 **完成**
 - [x] 功能修改：将修改、删除资源或项目文件功能移动到鼠标右键菜单。<br>- 参考 Excalidraw 插件添加右键菜单<br>- 参照 Buttons 获取 [[obsidian icon id]]
 - [x] 添加功能：删除资源、项目时自动删除资源项目卡片或替换
-- [x] 添加功能：输入显示候选框
 - [x] 开发完成后只需要保留以下 3 个文件：<br>- `main.js` 文件：主程序文件<br>- `manifest.json` 文件：插件信息<br>- `styles.css` 文件
 - [x] 看板MOC插件开发……
 - [x] 开发主要就是编辑 ts 文件。<br>看懂例程中的 ts 文件：<br>- **插件主程序**<br>	- **onload()**<br>- **插件创建一个命令**<br>- 插件创建侧边栏按钮<br>- 插件创建底部状态栏<br>- 插件全局事件监听<br>- 插件创建一个面板<br>- **插件设置面板**<br>- ……<br><br>上面几个加粗的比较重要。<br>对官方例程做点注释：[1657744680/obsidian-plugin (github.com)](https://github.com/1657744680/obsidian-plugin)
@@ -38,7 +36,11 @@ kanban-plugin: basic
 - [x] 下载并按介绍运行obsidian插件示例程序： [obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin)<br>- `npm i`（第一次）<br>- `npm run dev`（每次开发时）
 
 
+***
 
+## 归档
+
+- [x] 添加功能：输入显示候选框
 
 %% kanban:settings
 ```

@@ -364,6 +364,21 @@ copy 官方的示例代码自己改下：
 打开文件列表可以看到删除是直接删除这个资源（或项目）文件夹。
 电脑端删除的文件会放在系统回收站或 obsidian 的 .trash 文件夹里（手机端删了我也不知道去哪😵‍💫）![image-20211218233252645](attachments/image-20211218233252645.png)
 
+## 插件已知 BUG
+
+### BUG：手机端更新索引失效！
+
+问题描述：移动端代码里的文件写入函数 `fs` 的`writeFile()`失效，无法写入，也不报错
+
+代码片段：
+![image-20211219000344064](attachments/image-20211219000344064.png)
+
+`writeFile()`函数详情：![image-20211219000141974](attachments/image-20211219000141974.png)
+
+影响：插件新建、删除会受到影响。修改不受影响
+
+希望大佬可以帮忙答疑解惑，在[Github](https://github.com/1657744680/obsidian-Kanban-MOC)上留下话题帮忙解答。
+
 # 参考链接
 
 [（转载）Obsidian 开发相关（简单引导） - 开发讨论 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/148)
