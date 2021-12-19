@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🕹️操作面板.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225
   },
   "right": {
     "id": "432cf338bef008b4",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🕹️操作面板.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🕹️操作面板.md"
+                "file": "README.md"
               }
             }
           }
@@ -102,16 +102,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448,
-    "collapsed": true
+    "width": 448
   },
   "active": "e69d43aa3918d25f",
   "lastOpenFiles": [
+    "README.md",
     "🕹️操作面板.md",
     "🌏资源MOC.md",
     "AllFiles/项目/obsidian看板MOC插件/obsidian看板MOC插件.md",
     "🚧项目MOC.md",
-    "README.md",
     "AllFiles/资源/obsidian/obsidian.md",
     "AllFiles/项目/obsidian看板MOC插件/obsidian icon id.md",
     "AllFiles/资源/obsidian/Buttons.md",
